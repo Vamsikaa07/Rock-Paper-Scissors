@@ -13,9 +13,6 @@ A simple interactive Rock-Paper-Scissors game built using HTML, CSS, and JavaScr
 - CSS
 - JavaScript
 
-## 📸 Demo
-(Add your Netlify link here later)
-
 ## 📂 Project Structure
 - index.html
 - style.css
